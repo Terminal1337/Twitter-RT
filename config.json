@@ -1,0 +1,15 @@
+{
+    "main":{
+        "auth_token":"",
+        "ct0" : "",
+        "tweet_file" : "tweets.txt",
+        "cooldown" : "",
+        "image":"img.jpg",
+        "video":false
+    },
+    "tokens":{
+        "retweet" : true,
+        "like" : true,
+        "reply" : true
+    }
+}
